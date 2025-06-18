@@ -1,6 +1,9 @@
 # Advanced DSRL(Dual Super-Resolution Learning) Framework
 Enhanced semantic segmentation performance by introducing the Advanced DSRL framework using Attention Mechanism. <br/>
 
+## Duration
+2024.06.24 ~ 2024.08.16
+
 ## Main Idea
 Cross Attention Score 계산을 통해 SISR(Single Image Super-Resolution) feature에서 의미 있는 정보를 가져와 SSSR(Semantic Segmentation Super-Resolution) feature를 보완함으로써 semantic segmentation 성능을 향상시킴 <br/>
 By computing Cross Attention Scores, meaningful information from SISR features is extracted to enhance SSSR features, thereby improving semantic segmentation performance. <br/><br/>
