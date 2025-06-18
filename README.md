@@ -7,8 +7,8 @@ By computing Cross Attention Scores, meaningful information from SISR features i
 → 기존 DSRL에서의 FA Loss를 보완된 SSSR feature의 segmentation 성능으로 대체함
 The original FA Loss in DSRL is replaced with the segmentation performance of the enhanced SSSR features.
 
-더 자세한 사항은 [UROP 소논문](https://github.com/KaSangeun/Advanced-DSRL-Framework/blob/main/UROP_short_paper.pdf) 참조 <br/>
-For more details, please refer to the [short paper from UROP](https://github.com/KaSangeun/Advanced-DSRL-Framework/blob/main/UROP_short_paper.pdf)
+더 자세한 사항은 [UROP 소논문](https://github.com/KaSangeun/Advanced-DSRL-Framework/blob/main/UROP_short_paper.pdf)을 통해 확인할 수 있다. <br/>
+For more details, please refer to the [short paper from UROP](https://github.com/KaSangeun/Advanced-DSRL-Framework/blob/main/UROP_short_paper.pdf).
 
 ## Run
 1. Modify your dataset path in [`mypath.py`](https://github.com/KaSangeun/Advanced-DSRL-Framework/blob/main/mypath.py)
